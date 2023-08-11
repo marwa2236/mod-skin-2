@@ -37,14 +37,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"mod skin 2 1","desc":"description1 ser","photo":"https://iili.io/HDuoDc7.webp"},
+  {"title":"mod skin 2 2","desc":"description2 ser","photo":"https://iili.io/HDuobS9.webp"},
+  {"title":"mod skin 2 3","desc":"description3 ser","photo":"https://iili.io/HDux3PV.webp"},
+  {"title":"mod skin 2 4","desc":"description4 ser","photo":"https://iili.io/HDuxuPp.webp"},
+  {"title":"mod skin 2 5","desc":"description5 ser","photo":"https://iili.io/HDuxlNs.webp"},
+  {"title":"mod skin 2 6","desc":"description6 ser","photo":"https://iili.io/HDuxi5F.webp"},
+  {"title":"mod skin 2 7","desc":"description7 ser","photo":"https://iili.io/HDuzL2S.webp"},
+  {"title":"mod skin 2 8","desc":"description8 ser","photo":"https://iili.io/HDuzQY7.webp"}
    ]
  
 }
