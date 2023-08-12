@@ -23,28 +23,31 @@
 "yandex_inter":"R-M-DEMO-interstitial",
 "yandex_native":"R-M-DEMO-native-i",
 "yandex_reward":"demo-rewarded-yandex",
+  
+"vungle_appid":"645e64defe20a95ccb12bd7b ",
+"vungle_inter":"INTER-5944534",
+"vungle_banner":"DEFAULTBANNER-5844358",
+"vungle_reward":"REWARD-7025613",
+
+  
 
 
-
-"start_vpn":"yes",
+"download_dialog_txt":"download text from server",
 "banner_network_choice":"admob", 
 "interstisial_network_choice":"admob", 
 "reward_network_choice":"admob",
 "native_network_choice":"admob"
   
-  
 
 },
- 
- "my_data":[
-  {"title":"mod skin 2 1","desc":"description1 ser","photo":"https://iili.io/HDuoDc7.webp"},
-  {"title":"mod skin 2 2","desc":"description2 ser","photo":"https://iili.io/HDuobS9.webp"},
-  {"title":"mod skin 2 3","desc":"description3 ser","photo":"https://iili.io/HDux3PV.webp"},
-  {"title":"mod skin 2 4","desc":"description4 ser","photo":"https://iili.io/HDuxuPp.webp"},
-  {"title":"mod skin 2 5","desc":"description5 ser","photo":"https://iili.io/HDuxlNs.webp"},
-  {"title":"mod skin 2 6","desc":"description6 ser","photo":"https://iili.io/HDuxi5F.webp"},
-  {"title":"mod skin 2 7","desc":"description7 ser","photo":"https://iili.io/HDuzL2S.webp"},
-  {"title":"mod skin 2 8","desc":"description8 ser","photo":"https://iili.io/HDuzQY7.webp"}
+  "my_data":[
+  {"desc1":"description1 ser ",
+   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
+  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
    ]
  
 }
